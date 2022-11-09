@@ -1,0 +1,32 @@
+{
+  "name": "curry-theme",
+  "displayName": "Curry Theme",
+  "description": "A simple dark theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learnsomesome/curry-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Curry Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/curry-dark.json"
+      }
+    ]
+  },
+  "icon": "logo.jpg",
+  "preview": true
+}
