@@ -2,7 +2,7 @@
   "name": "curry-theme",
   "displayName": "Curry Theme",
   "description": "A simple dark theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.73.0"
   },
@@ -28,6 +28,5 @@
       }
     ]
   },
-  "icon": "logo.jpg",
-  "preview": true
+  "icon": "logo.png"
 }
